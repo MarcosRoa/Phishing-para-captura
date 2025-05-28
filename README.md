@@ -38,7 +38,6 @@
 *  URL a ser clonada ex. https://www.facebook.com
   ### Resultado
   #### POSSIBLE USERNAME FILD FOUND:
-  * Está vazio não mostrar meus dados
   #### POSSIBLE PASSWORD FILD FOUND:
-   * Está vazio não mostrar meus dados
+
 ![image](https://github.com/user-attachments/assets/04b837f9-62b8-49f8-a1b5-d227a8b73758)
