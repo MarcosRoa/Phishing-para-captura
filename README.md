@@ -37,7 +37,7 @@
 *  Adicionar o IP da máquina, ou utilizar o seu mostrado acima
 *  URL a ser clonada ex. https://www.facebook.com
   ### Resultado
-  #### POSSIBLE USERNAME FILD FOUND:
-  #### POSSIBLE PASSWORD FILD FOUND:
+  #### POSSIBLE USERNAME FIELD FOUND:
+  #### POSSIBLE PASSWORD FIELD FOUND:
 
 ![image](https://github.com/user-attachments/assets/04b837f9-62b8-49f8-a1b5-d227a8b73758)
